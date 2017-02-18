@@ -1,0 +1,8 @@
+{
+  "name": "rtbot",
+  "description": "I'm doing this to annoy kunal",
+  "image": "heroku/python",
+  "repository": "https://github.com/ZackAlfakir/rtbot",
+  "keywords": ["python", "flask" ],
+  "addons": []
+}
